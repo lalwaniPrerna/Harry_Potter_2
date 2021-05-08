@@ -1,0 +1,36 @@
+.header{
+
+    background-color: aqua;
+    border:dotted;
+}
+.about{
+    background-color:lavenderblush;
+    border:dotted;
+
+}
+.movie{
+    display:flex;
+    flex-wrap: wrap;
+  justify-content:space-between;
+    background-color: lightskyblue;
+    border:dotted;
+}
+.char{
+    background-color:linen;
+  
+    border:dotted;
+}
+.footer{
+    display:flex;
+    justify-content:flex-end;
+    background-color: paleturquoise;
+    border:dotted;
+}
+.lin{
+    background-color: lightskyblue;
+    border:dotted; 
+}
+.topic{
+    background-color: lightskyblue;
+    border:dotted; 
+}
